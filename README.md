@@ -1,4 +1,6 @@
-![photo_2024-11-19_08-03-05](https://github.com/user-attachments/assets/d6484d1b-bffd-4c50-93d5-7b397785a6ec)
+<img src="[photo_2024-11-19_08-03-05](https://github.com/user-attachments/assets/d6484d1b-bffd-4c50-93d5-7b397785a6ec)" alt="photo_2024-11-19_08-03-05" width="200"/>
+
+
 
 
 # CoreBox: 
